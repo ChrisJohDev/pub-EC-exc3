@@ -1,13 +1,13 @@
+.big-picture {
+    height: 150px;
+    width: 150px;
+}
+
 img {
     height: 100px;
     width: 100px;
     padding-right: 4px;
     /*padding-left: 4px;*/
-}
-
-.big-picture {
-    height: 150px;
-    width: 150px;
 }
 
 #pic1 {
